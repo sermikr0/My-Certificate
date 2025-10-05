@@ -1,96 +1,94 @@
 # My-Certificates
 
-Short portfolio of my hands-on red team and offensive security certifications.
+![repository size](https://img.shields.io/github/repo-size/sermikr0/My-Certificate)
+![last commit](https://img.shields.io/github/last-commit/sermikr0/My-Certificate)
+![files](https://img.shields.io/badge/certificates-__many__-blue)
+
+Short, interactive portfolio of my hands-on red team and offensive security certifications.  
 All certificate files are included in this repository.
 
 ---
 
-## What you’ll find here
-
-* Verified red team and web security certificates.
-* Hands-on labs and ProLabs evidence.
-* Practical skills used during assessments.
-
----
-
-## Certifications
-
-* Hack The Box — ProLabs.
-  [https://app.hackthebox.com/prolabs](https://app.hackthebox.com/prolabs)
-
-* CRTA — Red Team Analyst.
-  [https://cyberwarfare.live/product/red-team-analyst-crta/](https://cyberwarfare.live/product/red-team-analyst-crta/)
-
-* BSCP — PortSwigger Web Advanced (BSCP).
-  [https://portswigger.net/web-security](https://portswigger.net/web-security)
-
-* Cloud penetration testing certification.
-  (See files in this repo)
-
-* Additional PDF and image certificates included.
+## Quick links
+- 🔗 HTB ProLabs: https://app.hackthebox.com/prolabs  
+- 🔗 CRTA: https://cyberwarfare.live/product/red-team-analyst-crta/  
+- 🔗 PortSwigger (BSCP): https://portswigger.net/web-security
 
 ---
 
-## Core skills
-
-* Enumeration
-
-  * Network, host, web, and Active Directory enumeration.
-
-* Situational awareness
-
-  * Target mapping and operational context.
-
-* Exploitation & exploit chaining
-
-  * FreeBSD and other platform exploitation.
-  * Multi-step exploit chains.
-
-* Web application attacks
-
-  * Manual and automated testing.
-  * Source code review.
-
-* Active Directory
-
-  * AD enumeration and exploitation.
-  * Kerberos attacks, credential abuse, lateral movement.
-
-* Lateral movement & pivoting
-
-  * Network pivoting, persistence, and post-exploitation.
-
-* Privilege escalation
-
-  * Local and domain escalation techniques.
-
-* Out-of-band data exfiltration
-
-  * Covert exfiltration channels and techniques.
+## Badges
+![HTB](https://img.shields.io/badge/HackTheBox-ProLabs-8A2BE2)
+![CRTA](https://img.shields.io/badge/CRTA-Red--Team--Analyst-FF4500)
+![BSCP](https://img.shields.io/badge/PortSwigger-BSCP-1F8ACB)
+![Cloud PT](https://img.shields.io/badge/Cloud-Pentest-228B22)
 
 ---
 
-## Practical evidence
-
-* ProLabs files in `HTB/` folder.
-* CRTA course materials and certificate files included.
-* BSCP (PortSwigger) certificate files included.
-
----
-
-## Verification
-
-* Open certificate files in this repo.
-* Cross-check issuer sites using links above.
-* Request live demo or lab proof on demand.
+## Certificates table
+| Issuer | Cert / Proof | File |
+|---|---:|:---|
+| Hack The Box | ProLabs (hands-on) | `HTB/ProLabs-*.pdf` |
+| CyberWarfare.Live | CRTA (Red Team Analyst) | `CRTA/*.pdf` |
+| PortSwigger | BSCP (Web Advanced) | `BSCP/*.png` |
+| Various | Cloud pentest cert | `Cloud/*.pdf` |
+| Various | Other PDFs & images | `*.pdf` `*.jpg` `*.png` |
 
 ---
 
-## Contact
+<details>
+<summary>🎯 Core skills (click to expand)</summary>
 
-* Telegram: [@saidakbarxon_m](https://t.me/saidakbarxon_m)
-* LinkedIn: [Saidakbarxon Maxsudxonov](https://www.linkedin.com/in/saidakbarxon-maxsudxonov-555609279/)
-* GitHub: [sermikr0](https://github.com/sermikr0)
-* Repo: [My-Certificate](https://github.com/sermikr0/My-Certificate)
+- **Enumeration**
+  - Network, host, web, and AD enumeration.
+
+- **Situational awareness**
+  - Target mapping and operational context.
+
+- **Exploitation & chaining**
+  - FreeBSD and multi-step exploit chains.
+
+- **Web app attacks**
+  - Manual testing, automated scanners, source review.
+
+- **Active Directory**
+  - AD enumeration, Kerberos attacks, credential abuse.
+
+- **Lateral movement & pivoting**
+  - Network pivoting, persistence, post-exploitation.
+
+- **Privilege escalation**
+  - Local and domain escalation techniques.
+
+- **Out-of-band exfiltration**
+  - Covert channels and exfiltration tricks.
+
+</details>
 
 ---
+
+## Certificate gallery
+Click thumbnails to open the files.
+
+<!-- Replace paths with your actual filenames -->
+| HTB ProLabs | CRTA | BSCP |
+|---:|:---:|:---:|
+| [![HTB](HTB/HTB-ProLabs-thumb.png)](HTB/HTB-ProLabs.pdf) | [![CRTA](CRTA/CRTA-thumb.png)](CRTA/CRTA.pdf) | [![BSCP](BSCP/BSCP-thumb.png)](BSCP/BSCP.png) |
+
+**If thumbnails missing:** open the raw files in the folder.
+
+---
+
+## Verification & proof
+- Open files in the `HTB/`, `CRTA/`, `BSCP/`, and `Cloud/` folders.  
+- Cross-check issuers via the links above.  
+- For live verification, request a demo or ProLab proof.
+
+---
+
+## How to use this repo
+- Browse files in the `My-Certificate` repo.  
+- Click badges or gallery items to view certificates.  
+- Clone if you need local proof.
+
+```bash
+git clone git@github.com:sermikr0/My-Certificate.git
