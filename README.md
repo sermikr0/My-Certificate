@@ -7,9 +7,9 @@ All certificate files are included in this repository.
 
 ## What you’ll find here
 
-* Verified certificates for red team and web security.
+* Verified red team and web security certificates.
 * Hands-on labs and ProLabs evidence.
-* Practical skills I use during assessments.
+* Practical skills used during assessments.
 
 ---
 
@@ -22,10 +22,12 @@ All certificate files are included in this repository.
   [https://cyberwarfare.live/product/red-team-analyst-crta/](https://cyberwarfare.live/product/red-team-analyst-crta/)
 
 * BSCP — PortSwigger Web Advanced (BSCP).
+  [https://portswigger.net/web-security](https://portswigger.net/web-security)
 
 * Cloud penetration testing certification.
+  (See files in this repo)
 
-* Additional PDF / image certificates included in this repo.
+* Additional PDF and image certificates included.
 
 ---
 
@@ -33,7 +35,7 @@ All certificate files are included in this repository.
 
 * Enumeration
 
-  * Network, host, web, and AD enumeration.
+  * Network, host, web, and Active Directory enumeration.
 
 * Situational awareness
 
@@ -42,7 +44,7 @@ All certificate files are included in this repository.
 * Exploitation & exploit chaining
 
   * FreeBSD and other platform exploitation.
-  * Developing multi-step exploit chains.
+  * Multi-step exploit chains.
 
 * Web application attacks
 
@@ -56,43 +58,39 @@ All certificate files are included in this repository.
 
 * Lateral movement & pivoting
 
-  * Network pivoting and persistence.
+  * Network pivoting, persistence, and post-exploitation.
 
 * Privilege escalation
 
-  * Local and domain privilege escalation strategies.
+  * Local and domain escalation techniques.
 
 * Out-of-band data exfiltration
 
-  * Covert exfiltration techniques and channels.
+  * Covert exfiltration channels and techniques.
 
 ---
 
-## Practical proof
+## Practical evidence
 
-* ProLabs evidence in `HTB/` (or see HTB ProLabs link above).
-* CRTA evidence and course artifacts included.
-* PortSwigger (BSCP) certificate files included.
+* ProLabs files in `HTB/` folder.
+* CRTA course materials and certificate files included.
+* BSCP (PortSwigger) certificate files included.
 
 ---
 
-## How to verify
+## Verification
 
-* Open the certificate files in this repo.
-* Cross-check with issuer using the links above.
-* Ask for live demo or CTF box proof if you need hands-on validation.
+* Open certificate files in this repo.
+* Cross-check issuer sites using links above.
+* Request live demo or lab proof on demand.
 
 ---
 
 ## Contact
-* Telegram: `@saidakbarxon_m`
-* LinkedIn: `https://www.linkedin.com/in/saidakbarxon-maxsudxonov-555609279/`
-* GitHub: `sermikr0`
-* Repo: `My-Certificate`
+
+* Telegram: [@saidakbarxon_m](https://t.me/saidakbarxon_m)
+* LinkedIn: [Saidakbarxon Maxsudxonov](https://www.linkedin.com/in/saidakbarxon-maxsudxonov-555609279/)
+* GitHub: [sermikr0](https://github.com/sermikr0)
+* Repo: [My-Certificate](https://github.com/sermikr0/My-Certificate)
 
 ---
-
-If you want, I can:
-
-* Generate a compact CV section from these skills.
-* Create a clean README badge and table of certificates.
